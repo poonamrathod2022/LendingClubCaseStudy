@@ -54,6 +54,7 @@ case2 - Applicant not likely to repay the loan ( "Risky applicants"). If loan ap
 Created by [@poonamrathod2022] - feel free to contact me!
 https://github.com/poonamrathod2022/LendingClubCaseStudy.git
 pawarpoonam446@gmail.com
+praseetha.singh@gmail.com
 
 ## License
 - This project is open source.
