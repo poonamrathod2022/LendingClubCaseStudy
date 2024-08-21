@@ -22,10 +22,23 @@ case2 - Applicant not likely to repay the loan ( "Risky applicants"). If loan ap
 - The dataset used is this case study is loan.csv which is provided in the upgrad.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+ High Risk of defaulters :
+- Lower Income Range (<30K) and Loan Purpose is Moving
+- Higher income range tend to default ONLY when the Loan purpose is House.
+- Mid Income Range (50K-110K) and has more open accounts
+- Mid Income Range (30K-70K) with Home ownership as “Rented”
+- Mid Income Range (30K-70K) with 10-20% Interest Loan range
+- High experience of Job experience (10+years)
+- Higher Loan amount -> high defaulting
+- Grade – B,C,D and Sub Grades - B3,B4,B5,C1,C2,C3,D3,D4
+- Loan Purpose – Debt consolidation
+- Trend to default loan in the last few months of the year (Nov-Dec)
+
+Moderate Risk of Defaulters:
+- Lower Income Range (<30K) and Loan Purpose is Moving and Purpose is wedding, vacation, renewable
+energy, moving, major purchase, house and home improvement
+- Large number of open accounts ( Any income Range)
+- Home ownership – Rented, Mortgaged
 
 
 ## Technologies Used
